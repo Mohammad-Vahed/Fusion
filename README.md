@@ -1,6 +1,5 @@
 # Fusion Transcript Detection Pipeline
-
-## An innovative bioinformatics pipeline for detecting and characterizing fusion transcripts in breast cancer and healthy cell lines
+An innovative bioinformatics pipeline for detecting and characterizing fusion transcripts in breast cancer and healthy cell lines
 
 
 
