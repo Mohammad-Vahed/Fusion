@@ -17,7 +17,7 @@ R (>=4.0)
 Necessary bioinformatics tools: [list specific tools, e.g., STAR, FusionCatcher]
 
 
-Simple run
+# Simple run
 
 Run docker image:
 
