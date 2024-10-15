@@ -1,9 +1,9 @@
-# Fusion
+# Fusion Transcript Detection Pipeline
 
 ## An innovative bioinformatics pipeline for detecting and characterizing fusion transcripts in breast cancer and healthy cell lines
 
 
-# Fusion Transcript Detection Pipeline
+
 This repository contains an advanced bioinformatics pipeline designed for the identification and characterization of fusion transcripts in breast cancer and normal cell lines. The pipeline leverages cutting-edge algorithms to analyze RNA sequencing data, providing insights into the role of gene fusions in cancer biology.
 
 # Key Features
