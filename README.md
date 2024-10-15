@@ -1,5 +1,8 @@
 # Fusion
 
+## An innovative bioinformatics pipeline for detecting and characterizing fusion transcripts in breast cancer and healthy cell lines
+
+
 Simple run
 Run docker image:
 bsub -Is -q 'dinglab-interactive general-interactive' -G compute-dinglab -M 100G -R 'select[mem>100G] span[hosts=1] rusage[mem=100G]' -a 'docker(mvahed/fusion)' /bin/bash -l
